@@ -1,0 +1,3 @@
+[submodule "telepathy-morse"]
+	path = telepathy-morse
+	url = https://github.com/TelepathyQt/telepathy-morse.git
